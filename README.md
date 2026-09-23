@@ -5,10 +5,11 @@
 ## 현재 상태
 
 - GitHub 계정: [tjdgns6427-ops](https://github.com/tjdgns6427-ops)
-- 로컬 구현 및 주요 브라우저 동작 검증 완료
-- 배포 대상: 새 저장소 `mission-B1-1` (기존 미션 저장소와 분리)
-- **저장소 URL / GitHub Pages 배포 URL: 아직 미발급. GitHub 로그인 후 추가 예정**
-- 아래 스크린샷은 로컬 실행 화면입니다.
+- 로컬 구현 및 배포 주소에서 주요 브라우저 동작 검증 완료
+- 저장소: [mission-B1-1](https://github.com/tjdgns6427-ops/mission-B1-1)
+- 사이트: [포트폴리오 열기](https://tjdgns6427-ops.github.io/mission-B1-1/)
+- 배포 방식: `main` 브랜치의 최상위 폴더를 GitHub Pages로 게시
+- 아래 스크린샷은 GitHub Pages 배포 화면입니다.
 
 ## 실행
 
